@@ -1,0 +1,8 @@
+{
+    "lunch": 
+      [
+          {"name": "Keloggs","price": "$10", "calories":"50 cals"},
+          {"name": "popcorn",  "price": "$20", "calories":"120 cals"},
+          {"name": "Fruits","price": "$20", "calories":"60 cals"}
+      ]
+  }

@@ -1,0 +1,9 @@
+{
+    "dinner": 
+      [
+          {"name": "Sagg-Roti", "price": "$80", "calories":"400 cals"},
+          {"name": "Pizza","price": "$30", "calories":"200 cals"},
+          {"name": "Rice",     "price": "$80", "calories":"100 cals"}
+        
+    ]
+  }
